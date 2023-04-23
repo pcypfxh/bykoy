@@ -2,7 +2,7 @@
 
 # 设置各变量
 WSPATH=${WSPATH:-'argo'}
-UUID=${UUID:-'de04add9-5c68-8bab-950c-08cd5320df18'}
+UUID=${UUID:-'1ca2a924-f175-42ae-8963-2a73897cc52f'}
 
 # 其他Paas保活
 PAAS1=
