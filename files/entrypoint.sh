@@ -5,7 +5,7 @@ WSPATH=${WSPATH:-'argo'}
 UUID=${UUID:-'1ca2a924-f175-42ae-8963-2a73897cc52f'}
 
 # 其他Paas保活
-PAAS1=
+PAAS1=https://quartz-western-capacity.glitch.me/
 PAAS2=
 PAAS3=
 
